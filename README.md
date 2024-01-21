@@ -54,7 +54,7 @@
 
 
 
-<!-- [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690982818384?alt=media&token=2a38c110-ee97-4ae3-9ad6-b569944ec34a)](https://github.com/msdio/stackticon) -->
+[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690982818384?alt=media&token=2a38c110-ee97-4ae3-9ad6-b569944ec34a)](https://github.com/msdio/stackticon)
 
 
 [![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690984961126?alt=media&token=39aa059b-8452-428b-979c-ac751eff9e27)](https://github.com/msdio/stackticon)

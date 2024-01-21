@@ -100,19 +100,19 @@
 
 | Project | Adress |
 |---|---|
-|*자바게시판* &nbsp; | https://github.com/byeongseokim/JavaSoloProject/|
-|*JSP게시판* &nbsp; | https://github.com/byeongseokim/JSP-MVC-model2-Project/|
-|*React+SpringBoot 풀스택* &nbsp; | https://github.com/byeongseokim/Springboot-React-Fullstack-Personalproject|
+<!--|*자바게시판* &nbsp; | https://github.com/byeongseokim/JavaSoloProject/|
+|*JSP게시판* &nbsp; | https://github.com/byeongseokim/JSP-MVC-model2-Project/|-->
+
 
 
 </div>
 </details>
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongseokim&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/byeongseokim)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyeongseokim&count_bg=%23B2D5FF&title_bg=%23858486&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://github.com/myeongjjj)
 
 
-|[![byeongseok's GitHub stats](https://github-readme-stats.vercel.app/api?username=byeongseokim&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/byeongseokim)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=byeongseokim&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
+|[![myeongju GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongjjj&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/myeongjjj)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjjj&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
 | ------------- | ------------- |
 
 

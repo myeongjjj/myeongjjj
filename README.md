@@ -91,9 +91,8 @@
 #### 👨‍👩‍👦‍👦 Team
 | Project | Adress |
 |---|---|
- |*자바게시판* &nbsp;| https://github.com/byeongseokim/Java_Team_Project                     |
- |*서울페스티벌* &nbsp;| https://github.com/byeongseokim/JSP_Team_Project           |
- |*NEVER WEB community site* &nbsp; |https://github.com/byeongseokim/Fullstack-Project      |
+ |*superrookie* &nbsp;| https://github.com/orgs/SuperRookie4/repositories                     |
+ <!--|*서울페스티벌* &nbsp;| https://github.com/byeongseokim/JSP_Team_Project           |-->
 
 
 

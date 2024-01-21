@@ -54,10 +54,10 @@
 
 
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690982818384?alt=media&token=2a38c110-ee97-4ae3-9ad6-b569944ec34a)](https://github.com/msdio/stackticon)
+<!--[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690982818384?alt=media&token=2a38c110-ee97-4ae3-9ad6-b569944ec34a)](https://github.com/msdio/stackticon)-->
 
 
-[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690984961126?alt=media&token=39aa059b-8452-428b-979c-ac751eff9e27)](https://github.com/msdio/stackticon)
+<!--[![stackticon](https://firebasestorage.googleapis.com/v0/b/stackticon-81399.appspot.com/o/images%2F1690984961126?alt=media&token=39aa059b-8452-428b-979c-ac751eff9e27)](https://github.com/msdio/stackticon)-->
 
 
 <!-- <div style="text-align: center;">
@@ -75,14 +75,8 @@
   
 | Date | Contents | With |
 |:---:|:---:|:---:|
-| 23.07.31 ~ 23.08.11 | React와 SpringBoot를 연동하여 만든 스케쥴 체크 프로그램 | FullStack 개인 프로젝트 |
-| 23.07.10 ~ 23.07.28 | NEVER WEB community site | Spring 팀 프로젝트 |
-| 23.06.12 ~ 23.06.26 | Seoul Festival | JSP 팀 프로젝트 |
-| 23.06.04 ~ 23.06.10 | MVC2 패턴을 이용해 JSP 게시판 만들기 | JSP 개인 프로젝트 |
-| 23.05.15 ~ 23.05.25 | 순수 자바 콘솔 게시판 | 자바 팀 프로젝트 |
-| 23.05.11 ~ 23.05.15 | OracleXE와 자바를 연동하여 게시판 구현 | 자바 개인 프로젝트 |
-| 23.04.12 ~ 23.08.17 | AWS활용 자바 풀스택개발(큐레이팅커머스) 수료 (산대특)| 안산 이젠컴퓨터아카데미 |
-| 16.03 ~ 23.02 | 토목 공학과 학사 졸업 | 청주대학교 |
+| 23.10.25 ~  | 프로젝트기반 자바(JAVA)&파이썬(Python) OCR SW개발자 양성과정| 강남 그린컴퓨터 아카데미 |
+| 16.03 ~ 20.02 | 음악대학 피아노과 학사 졸업 | 울산대학교 |
   
 <!-- </div> -->
 

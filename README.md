@@ -39,8 +39,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
 
-## 📔 나의 관심 기술📔
-
+## 📔 나의 공부 기록📔
+노션 https://www.notion.so/7de90ef41f6c49d9a5bdf615b5118316?pvs=4
 
 
 

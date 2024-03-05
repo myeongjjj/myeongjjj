@@ -11,13 +11,15 @@
 <h3 align="center">Team</h3>
 <p align="center">https://github.com/orgs/SuperRookie4/repositories</p>
 -->
-<div align=center>
+
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20myeongju%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&rotate=0)
 ---
 
 
 
-
+<div align=center>
 ## 🛠주 사용 기술 스택 🛠
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

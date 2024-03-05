@@ -1,3 +1,6 @@
+<div align=center>
+
+
 <!--
 
 <h3 align="center">Connect with me:</h3>
@@ -19,7 +22,7 @@
 
 
 
-<div align=center>
+
 ## 🛠주 사용 기술 스택 🛠
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

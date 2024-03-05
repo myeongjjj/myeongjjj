@@ -119,7 +119,7 @@
 
 
 
-|[![myeongju GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongjjj&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")
+|[![myeongju GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongjjj&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")]
 
 
 

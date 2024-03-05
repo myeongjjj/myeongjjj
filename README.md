@@ -119,7 +119,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjjj&layout=compact)](https://github.com/myeongjjj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjjj%layout=compact&title=많이 사용하는 언어)](https://github.com/myeongjjj/github-readme-stats)
 
 
 

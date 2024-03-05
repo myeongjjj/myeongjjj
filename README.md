@@ -11,7 +11,7 @@
 <h3 align="center">Team</h3>
 <p align="center">https://github.com/orgs/SuperRookie4/repositories</p>
 -->
-  
+<div align=center>
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20myeongju%20GitHub%20(●'◡'●)&animation=twinkling&fontSize=25&fontAlignY=40&fontAlign=70&height=250&desc=Web%20Developer%20Student&rotate=0)
 ---
 
@@ -109,17 +109,18 @@
 </details>
 
 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmyeongjjj&count_bg=%23959EF1&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjjj&layout=compact)](https://github.com/myeongjjj/github-readme-stats)
-| ------------- | ------------- |
 
 
----
+
 
 
 
 <!-- ![Footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&animation=twinkling&section=footer) -->
-
+</div>
   

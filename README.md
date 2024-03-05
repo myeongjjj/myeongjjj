@@ -119,7 +119,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjjj%layout=compact&title=많이 사용하는 언어)](https://github.com/myeongjjj/github-readme-stats)
+|[![myeongju GitHub stats](https://github-readme-stats.vercel.app/api?username=myeongjjj&include_all_commits=true&theme=swift&hide_border=true&count_private=true&locale=kr&disable_animations=false&show_owner=false&&theme=buefyhide_border=true")](https://github.com/myeongjjj)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myeongjjj&langs_count=10&hide=html&layout=compact&custom_title=많이사용되는언어&hide_border=true)
 
 
 

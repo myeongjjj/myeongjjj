@@ -97,7 +97,7 @@
 | Project | Adress |
 |---|---|
  |*color페이지 협업* &nbsp;| https://github.com/myeongjjj/colorpage-mini-project.git                     |
- |*ocr 프로젝트* &nbsp;| https://github.com/myeongjjj/pythonProject.git                     |
+ |*ocr 프로젝트* &nbsp;| https://github.com/myeongjjj/pythonProject.git                     |
  <!--|*서울페스티벌* &nbsp;| https://github.com/byeongseokim/JSP_Team_Project           |-->
 
 
